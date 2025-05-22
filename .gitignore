@@ -1,0 +1,7 @@
+/bin/
+*.class
+/bin/
+*.log
+"*.class" 
+"/bin/" 
+"*.log" 
